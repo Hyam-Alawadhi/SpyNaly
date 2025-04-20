@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766253562449",
+    "project_id": "spynaly",
+    "storage_bucket": "spynaly.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766253562449:android:2eb0bcaa940af7d3de1670",
+        "android_client_info": {
+          "package_name": "com.example.app_spynaly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6tUWEmC1Qp6h2_jcCGVtgQXo-4RffxeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
