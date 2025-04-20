@@ -1,3 +1,47 @@
+# Flutter
+**/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.idea/
+.vscode/
+*.iml
+
+# IntelliJ related
+*.ipr
+*.iws
+*.iml
+
+# VS Code
+.vscode/
+
+# Android
+android/.gradle/
+android/app/debug/
+android/app/release/
+android/key.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+
+# macOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/flutter_export_environment.sh
+
+# Web
+web/.dart_tool/
+
+# Others
+*.log
+*.tmp
+
 # Miscellaneous
 *.class
 *.log
